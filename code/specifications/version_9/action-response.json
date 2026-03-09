@@ -1,0 +1,67 @@
+{
+  "ObjAction": [
+    {
+      "actresid": "play_music",
+      "trigger_event": {
+        "sourceObj": "Master_Button",
+        "isCollision": "false",
+        "action": "input",
+        "inputType": "click",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Turntable_Platter",
+        "isCollision": "false",
+        "response": "none",
+        "force": "none",
+        "change_property_by": "none"
+      }
+    },
+    {
+      "actresid": "snap_record_b",
+      "trigger_event": {
+        "sourceObj": "Vinyl_Record_B",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Vinyl_Record_B",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none",
+        "change_property_by": {
+          "Transform_initialpos": {
+            "x": "0",
+            "y": "0.52",
+            "z": "0"
+          }
+        }
+      }
+    },
+    {
+      "actresid": "snap_record_a",
+      "trigger_event": {
+        "sourceObj": "Vinyl_Record_A",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Vinyl_Record_A",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none",
+        "change_property_by": {
+          "Transform_initialpos": {
+            "x": "0",
+            "y": "0.52",
+            "z": "0"
+          }
+        }
+      }
+    }
+  ]
+}

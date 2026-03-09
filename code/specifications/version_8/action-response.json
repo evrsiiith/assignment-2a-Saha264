@@ -1,0 +1,91 @@
+{
+  "ObjAction": [
+    {
+      "actresid": "snap_record_a",
+      "trigger_event": {
+        "sourceObj": "Vinyl_Record_A",
+        "IsCollision": "true",
+        "action": "none",
+        "change_property_by": null,
+        "force": {},
+        "disappear": "none",
+        "inputType": "none",
+        "repeatactionfor": ""
+      },
+      "response_event": {
+        "targetObj": "Vinyl_Record_A",
+        "IsCollision": "false",
+        "response": "change",
+        "change_property_by": {
+          "Transform_initialpos": {
+            "x": 0.0,
+            "y": 0.52,
+            "z": 0.0
+          }
+        },
+        "force": "none",
+        "disappear": "none",
+        "outputType": "none",
+        "repeatactionfor": ""
+      },
+      "comment": "Snap Record A to Platter center",
+      "Syncronous": "true"
+    },
+    {
+      "actresid": "snap_record_b",
+      "trigger_event": {
+        "sourceObj": "Vinyl_Record_B",
+        "IsCollision": "true",
+        "action": "none",
+        "change_property_by": null,
+        "force": {},
+        "disappear": "none",
+        "inputType": "none",
+        "repeatactionfor": ""
+      },
+      "response_event": {
+        "targetObj": "Vinyl_Record_B",
+        "IsCollision": "false",
+        "response": "change",
+        "change_property_by": {
+          "Transform_initialpos": {
+            "x": 0.0,
+            "y": 0.52,
+            "z": 0.0
+          }
+        },
+        "force": "none",
+        "disappear": "none",
+        "outputType": "none",
+        "repeatactionfor": ""
+      },
+      "comment": "Snap Record B to Platter center",
+      "Syncronous": "true"
+    },
+    {
+      "actresid": "play_music",
+      "trigger_event": {
+        "sourceObj": "Master_Button",
+        "IsCollision": "false",
+        "action": "input",
+        "change_property_by": null,
+        "force": {},
+        "disappear": "none",
+        "inputType": "click",
+        "repeatactionfor": ""
+      },
+      "response_event": {
+        "targetObj": "Turntable_Platter",
+        "IsCollision": "false",
+        "response": "dj_play",
+        "change_property_by": null,
+        "force": "none",
+        "disappear": "none",
+        "outputType": "none",
+        "repeatactionfor": ""
+      },
+      "comment": "Click Master Button to toggle play if record is loaded",
+      "Syncronous": "true"
+    }
+  ]
+}

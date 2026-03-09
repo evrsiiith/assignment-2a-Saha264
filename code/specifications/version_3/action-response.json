@@ -1,0 +1,225 @@
+{
+  "ObjAction": [
+    {
+      "actresid": "pin_fall_disappear3",
+      "trigger_event": {
+        "sourceObj": "Pin_3",
+        "IsCollision": null,
+        "action": "change",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        },
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Pin_3",
+        "IsCollision": null,
+        "response": "disappear",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": "pin_fall_disappear2",
+      "trigger_event": {
+        "sourceObj": "Pin_2",
+        "IsCollision": null,
+        "action": "change",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        },
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Pin_2",
+        "IsCollision": null,
+        "response": "disappear",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": "pin_fall_disappear",
+      "trigger_event": {
+        "sourceObj": "Pin_1",
+        "IsCollision": null,
+        "action": "change",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        },
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Pin_1",
+        "IsCollision": null,
+        "response": "disappear",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": "ball_roll_on_click",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "IsCollision": null,
+        "action": "input",
+        "change_property_by": "none",
+        "force": null,
+        "disappear": null,
+        "inputType": "click",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Ball",
+        "IsCollision": null,
+        "response": "force",
+        "force": {
+          "force_x": "10",
+          "force_y": "0",
+          "force_z": "0",
+          "type": "impulse"
+        },
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": null,
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "IsCollision": null,
+        "action": "none",
+        "change_property_by": "none",
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Pin_1",
+        "IsCollision": null,
+        "response": "none",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": null,
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "IsCollision": null,
+        "action": "none",
+        "change_property_by": "none",
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Pin_2",
+        "IsCollision": null,
+        "response": "none",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": null,
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "IsCollision": null,
+        "action": "none",
+        "change_property_by": "none",
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Pin_3",
+        "IsCollision": null,
+        "response": "none",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    },
+    {
+      "actresid": "gjost_disappear",
+      "trigger_event": {
+        "sourceObj": "Pin_1",
+        "IsCollision": null,
+        "action": "change",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        },
+        "force": null,
+        "disappear": null,
+        "inputType": "none",
+        "repeatactionfor": null
+      },
+      "response_event": {
+        "targetObj": "Ghost",
+        "IsCollision": null,
+        "response": "disappear",
+        "force": "none",
+        "disappear": null,
+        "outputType": null,
+        "repeatactionfor": null
+      },
+      "comment": null,
+      "Syncronous": null
+    }
+  ]
+}

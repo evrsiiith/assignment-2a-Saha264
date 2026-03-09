@@ -1,0 +1,60 @@
+{
+    "actresid":"",
+    "condition":{
+        "if":{
+            "source_obj":"",
+            "left":"",
+            "right":"",
+            "operator":""
+        },
+        "then":{
+            "response":"",
+            "target_obj":""
+        }
+    },
+    "loop":{
+        "initialise":{
+
+        },
+        "if":{
+            "source_obj":"",
+            "left":"",
+            "right":"",
+            "operator":""
+        },
+        "next":{
+
+        },
+        "then":{
+            "response":"",
+            "target_obj":""
+        }
+    },
+    "action": {
+        "actresid": "ball_roll_on_click",
+        "trigger_event": {
+            "sourceObj": "Ball",
+            "IsCollision": "false",
+            "action": "input",
+            "force": {},
+            "disappear": "none",
+            "inputType": "click",
+            "repeatactionfor": ""
+        },
+        "response_event": {
+            "targetObj": "Ball",
+            "IsCollision": "false",
+            "response": "force",
+            "force": {
+                "direction": "forward",
+                "strength": "10",
+                "type": "impulse"
+            },
+            "disappear": "none",
+            "outputType": "none",
+            "repeatactionfor": ""
+        },
+        "comment": "<freetext>",
+        "Syncronous": "true"
+    }
+}

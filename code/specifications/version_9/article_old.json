@@ -1,0 +1,200 @@
+{
+  "0": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.51,
+      "z": 0.3
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": false,
+      "IsKinematic": true,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.15,
+      "y": 0.08,
+      "z": 0.15
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Master_Button",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cube",
+    "_objectname": "Master_Button"
+  },
+  "1": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.51,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": false,
+      "IsKinematic": true,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.4,
+      "y": 0.02,
+      "z": 0.4
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Turntable_Platter",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cylinder",
+    "_objectname": "Turntable_Platter"
+  },
+  "2": {
+    "Transform_initialpos": {
+      "x": 0.4,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.3,
+      "y": 0.01,
+      "z": 0.3
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Vinyl_Record_B",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cylinder",
+    "_objectname": "Vinyl_Record_B"
+  },
+  "3": {
+    "Transform_initialpos": {
+      "x": -0.4,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.3,
+      "y": 0.01,
+      "z": 0.3
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Vinyl_Record_A",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cylinder",
+    "_objectname": "Vinyl_Record_A"
+  },
+  "4": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.2,
+      "y": 0.05,
+      "z": 0.8
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Table",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cube",
+    "_objectname": "Table"
+  },
+  "5": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.25,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 3.0,
+      "y": 0.5,
+      "z": 2.0
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Table",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cube",
+    "_objectname": "Table"
+  }
+}

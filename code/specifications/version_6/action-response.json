@@ -1,0 +1,421 @@
+{
+  "ObjAction": [
+    {
+      "actresid": "pin_fall_disappear10",
+      "trigger_event": {
+        "sourceObj": "Pin_10",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_10",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear9",
+      "trigger_event": {
+        "sourceObj": "Pin_9",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_9",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear8",
+      "trigger_event": {
+        "sourceObj": "Pin_8",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_8",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear7",
+      "trigger_event": {
+        "sourceObj": "Pin_7",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_7",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear6",
+      "trigger_event": {
+        "sourceObj": "Pin_6",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_6",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear5",
+      "trigger_event": {
+        "sourceObj": "Pin_5",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_5",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear4",
+      "trigger_event": {
+        "sourceObj": "Pin_4",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_4",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear3",
+      "trigger_event": {
+        "sourceObj": "Pin_3",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_3",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear2",
+      "trigger_event": {
+        "sourceObj": "Pin_2",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_2",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear",
+      "trigger_event": {
+        "sourceObj": "Pin_1",
+        "isCollision": "false",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "45",
+            "y": "45",
+            "z": "45"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_1",
+        "isCollision": "false",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_roll_on_click",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "false",
+        "action": "input",
+        "inputType": "click",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Ball",
+        "isCollision": "false",
+        "response": "force",
+        "force": {
+          "force_x": "30",
+          "force_y": "0",
+          "force_z": "0",
+          "type": "impulse"
+        }
+      }
+    },
+    {
+      "actresid": "ball_pin",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_1",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin2",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_2",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin3",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_3",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin4",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_4",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin5",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_5",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin6",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_6",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin7",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_7",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin8",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_8",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin9",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_9",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_pin10",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "true",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_10",
+        "isCollision": "true",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "reset",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "isCollision": "false",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Ball",
+        "isCollision": "false",
+        "response": "none",
+        "force": "none"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3150 @@
+{
+  "0": {
+    "Transform_initialpos": {
+      "x": 1.99999988,
+      "y": 3.4713743E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "wrist_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "wrist_low"
+  },
+  "1": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": -2.77876833E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "upperarm_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "upperarm_low"
+  },
+  "2": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 3.516944E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "torso_mid_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "torso_mid_low"
+  },
+  "3": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 4.172387E-11,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "thigh_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "thigh_low"
+  },
+  "4": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": -2.77876833E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "shoulder_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "shoulder_low"
+  },
+  "5": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 4.172387E-11,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "shin_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "shin_low"
+  },
+  "6": {
+    "Transform_initialpos": {
+      "x": 1.99950111,
+      "y": 1.60492063,
+      "z": 1.212667
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.8247814,
+      "y": 28.8247662,
+      "z": 28.8247719
+    },
+    "Transform_initialrotation": {
+      "x": 316.654663,
+      "y": 77.26878,
+      "z": 108.189682
+    },
+    "m_Layer": 0,
+    "m_Name": "screw_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "screw_low"
+  },
+  "7": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 3.97205326E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "scarf_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "scarf_low"
+  },
+  "8": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 3.516944E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "pelvis_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "pelvis_low"
+  },
+  "9": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 1.094818E-07,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "palm_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "palm_low"
+  },
+  "10": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 4.172387E-11,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "heels_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "heels_low"
+  },
+  "11": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 5.26717535E-24,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "head_screen_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "head_screen_low"
+  },
+  "12": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 5.26717535E-24,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "head_mohawk_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "head_mohawk_low"
+  },
+  "13": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 3.304481E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 27.9999924,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "head_main_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "head_main_low"
+  },
+  "14": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 2.558241,
+      "z": 1.04989219
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.265513033,
+      "y": 0.265513,
+      "z": 0.265513
+    },
+    "Transform_initialrotation": {
+      "x": 9.334669E-06,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "head_eyes_low",
+    "m_TagString": "PlayerEyes",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "head_eyes_low"
+  },
+  "15": {
+    "Transform_initialpos": {
+      "x": 1.99999988,
+      "y": 3.4713743E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "forearm_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "forearm_low"
+  },
+  "16": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": -3.73881974E-08,
+      "z": 1.50000012
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 27.9999962,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "finger_thumb_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "finger_thumb_low"
+  },
+  "17": {
+    "Transform_initialpos": {
+      "x": 1.99999964,
+      "y": -1.42417292E-07,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "finger_pinky_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "finger_pinky_low"
+  },
+  "18": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": -1.169269E-09,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "finger_middle_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "finger_middle_low"
+  },
+  "19": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": -1.79987268E-07,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "finger_index_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "finger_index_low"
+  },
+  "20": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 4.172387E-11,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "feet_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "feet_low"
+  },
+  "21": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 5.26717535E-24,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "ears_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "ears_low"
+  },
+  "22": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 5.26717535E-24,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "ear_joint_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "ear_joint_low"
+  },
+  "23": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 3.304481E-08,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 27.9999924,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "chest_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "chest_low"
+  },
+  "24": {
+    "Transform_initialpos": {
+      "x": 0.508177042,
+      "y": 1.61563885,
+      "z": 1.21672964
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 46.7289238,
+      "y": 10.2041082,
+      "z": 140.282227
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandThumb4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandThumb4"
+  },
+  "25": {
+    "Transform_initialpos": {
+      "x": 0.605981946,
+      "y": 1.68599784,
+      "z": 1.28299332
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 45.3403,
+      "y": 2.944141,
+      "z": 136.716934
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandThumb3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandThumb3"
+  },
+  "26": {
+    "Transform_initialpos": {
+      "x": 0.717270851,
+      "y": 1.75490415,
+      "z": 1.34925914
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 49.3368149,
+      "y": 7.494415,
+      "z": 136.1191
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandThumb2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandThumb2"
+  },
+  "27": {
+    "Transform_initialpos": {
+      "x": 0.7618239,
+      "y": 1.75475037,
+      "z": 1.42916584
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.9999999,
+      "y": 0.9999999,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 82.1902542,
+      "y": 298.425079,
+      "z": 92.600296
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandThumb1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandThumb1"
+  },
+  "28": {
+    "Transform_initialpos": {
+      "x": 0.2492311,
+      "y": 1.792672,
+      "z": 1.66342807
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 84.8967,
+      "y": 89.99978,
+      "z": 179.999771
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandPinky4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandPinky4"
+  },
+  "29": {
+    "Transform_initialpos": {
+      "x": 0.3039186,
+      "y": 1.792672,
+      "z": 1.66342807
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 270.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandPinky3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandPinky3"
+  },
+  "30": {
+    "Transform_initialpos": {
+      "x": 0.429016352,
+      "y": 1.79267228,
+      "z": 1.66342807
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 270.000031,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandPinky2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandPinky2"
+  },
+  "31": {
+    "Transform_initialpos": {
+      "x": 0.5829704,
+      "y": 1.80051661,
+      "z": 1.66338527
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.99999994,
+      "z": 0.9999999
+    },
+    "Transform_initialrotation": {
+      "x": 87.08315,
+      "y": 90.32929,
+      "z": 180.313
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandPinky1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandPinky1"
+  },
+  "32": {
+    "Transform_initialpos": {
+      "x": 0.253127575,
+      "y": 1.78834844,
+      "z": 1.53851283
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 270.000031,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandMiddle4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandMiddle4"
+  },
+  "33": {
+    "Transform_initialpos": {
+      "x": 0.295237184,
+      "y": 1.78745973,
+      "z": 1.53826928
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 1.0,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 88.7468,
+      "y": 255.002563,
+      "z": 344.674652
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandMiddle3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandMiddle3"
+  },
+  "34": {
+    "Transform_initialpos": {
+      "x": 0.4192239,
+      "y": 1.79932022,
+      "z": 1.5381304
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.9999999,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 84.53585,
+      "y": 90.12669,
+      "z": 180.115173
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandMiddle2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandMiddle2"
+  },
+  "35": {
+    "Transform_initialpos": {
+      "x": 0.564743757,
+      "y": 1.78860521,
+      "z": 1.53416121
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 85.51018,
+      "y": 251.180054,
+      "z": 339.6751
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandMiddle1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandMiddle1"
+  },
+  "36": {
+    "Transform_initialpos": {
+      "x": 0.2588017,
+      "y": 1.7926718,
+      "z": 1.409503
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 84.90042,
+      "y": 89.99984,
+      "z": 179.999832
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandIndex4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandIndex4"
+  },
+  "37": {
+    "Transform_initialpos": {
+      "x": 0.309079647,
+      "y": 1.79267228,
+      "z": 1.409503
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 270.000061,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandIndex3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandIndex3"
+  },
+  "38": {
+    "Transform_initialpos": {
+      "x": 0.428999424,
+      "y": 1.79267228,
+      "z": 1.40950286
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 270.000031,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandIndex2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandIndex2"
+  },
+  "39": {
+    "Transform_initialpos": {
+      "x": 0.5758096,
+      "y": 1.79325366,
+      "z": 1.40797114
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.9999999,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 89.36082,
+      "y": 159.826538,
+      "z": 249.227539
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHandIndex1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHandIndex1"
+  },
+  "40": {
+    "Transform_initialpos": {
+      "x": 0.848802567,
+      "y": 1.772695,
+      "z": 1.5290494
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 86.67151,
+      "y": 308.2587,
+      "z": 33.64944
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightHand",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightHand"
+  },
+  "41": {
+    "Transform_initialpos": {
+      "x": 1.24921751,
+      "y": 1.77199423,
+      "z": 1.53754866
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 84.71977,
+      "y": 179.868286,
+      "z": 271.088867
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightForeArm",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightForeArm"
+  },
+  "42": {
+    "Transform_initialpos": {
+      "x": 1.62289977,
+      "y": 1.79074216,
+      "z": 1.52374315
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.9999999,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 85.13998,
+      "y": 145.983887,
+      "z": 233.769775
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightArm",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightArm"
+  },
+  "43": {
+    "Transform_initialpos": {
+      "x": 1.7114017,
+      "y": 1.7798388,
+      "z": 1.52124751
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 81.577034,
+      "y": 237.884216,
+      "z": 326.555328
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightShoulder",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightShoulder"
+  },
+  "44": {
+    "Transform_initialpos": {
+      "x": 1.36037421,
+      "y": 2.5415504,
+      "z": 1.51391888
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.00000012,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 83.3287048,
+      "y": 179.239563,
+      "z": 262.113159
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightEar",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightEar"
+  },
+  "45": {
+    "Transform_initialpos": {
+      "x": 2.63962579,
+      "y": 2.5415504,
+      "z": 1.51391876
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.00000012,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 83.3287354,
+      "y": 180.760483,
+      "z": 97.88689
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftEar",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftEar"
+  },
+  "46": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 3.16975141,
+      "z": 1.24918377
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.9999998,
+      "z": 0.9999999
+    },
+    "Transform_initialrotation": {
+      "x": 2.2141272E-05,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:HeadTop_End",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:HeadTop_End"
+  },
+  "47": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 2.04599571,
+      "z": 1.45950472
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 7.94612026,
+      "y": 180.0,
+      "z": 5.138222E-14
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:Head",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:Head"
+  },
+  "48": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 1.87431145,
+      "z": 1.46902621
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 1.48653793,
+      "y": 180.0,
+      "z": -6.36325031E-15
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:Neck",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:Neck"
+  },
+  "49": {
+    "Transform_initialpos": {
+      "x": 3.491823,
+      "y": 1.61563885,
+      "z": 1.2167294
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 46.7289238,
+      "y": 349.7959,
+      "z": 219.717773
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandThumb4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandThumb4"
+  },
+  "50": {
+    "Transform_initialpos": {
+      "x": 3.39401817,
+      "y": 1.68599784,
+      "z": 1.28299308
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 45.3403053,
+      "y": 357.055878,
+      "z": 223.283051
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandThumb3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandThumb3"
+  },
+  "51": {
+    "Transform_initialpos": {
+      "x": 3.28272915,
+      "y": 1.75490415,
+      "z": 1.3492589
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 49.3368149,
+      "y": 352.505585,
+      "z": 223.8809
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandThumb2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandThumb2"
+  },
+  "52": {
+    "Transform_initialpos": {
+      "x": 3.238176,
+      "y": 1.75475037,
+      "z": 1.4291656
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.9999999,
+      "y": 0.9999999,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 82.19023,
+      "y": 61.57494,
+      "z": 267.3997
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandThumb1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandThumb1"
+  },
+  "53": {
+    "Transform_initialpos": {
+      "x": 3.750769,
+      "y": 1.792672,
+      "z": 1.66342783
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 84.89685,
+      "y": 270.000153,
+      "z": 180.000153
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandPinky4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandPinky4"
+  },
+  "54": {
+    "Transform_initialpos": {
+      "x": 3.6960814,
+      "y": 1.792672,
+      "z": 1.66342783
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 90.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandPinky3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandPinky3"
+  },
+  "55": {
+    "Transform_initialpos": {
+      "x": 3.57098365,
+      "y": 1.79267228,
+      "z": 1.66342771
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 89.99998,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandPinky2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandPinky2"
+  },
+  "56": {
+    "Transform_initialpos": {
+      "x": 3.41702962,
+      "y": 1.80051661,
+      "z": 1.663385
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.99999994,
+      "z": 0.9999999
+    },
+    "Transform_initialrotation": {
+      "x": 87.08315,
+      "y": 269.670563,
+      "z": 179.686859
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandPinky1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandPinky1"
+  },
+  "57": {
+    "Transform_initialpos": {
+      "x": 3.74687243,
+      "y": 1.78834844,
+      "z": 1.53851247
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 89.99999,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandMiddle4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandMiddle4"
+  },
+  "58": {
+    "Transform_initialpos": {
+      "x": 3.704763,
+      "y": 1.78745973,
+      "z": 1.53826892
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 1.0,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 88.7468,
+      "y": 104.9972,
+      "z": 15.325036
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandMiddle3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandMiddle3"
+  },
+  "59": {
+    "Transform_initialpos": {
+      "x": 3.58077621,
+      "y": 1.79932022,
+      "z": 1.53813
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.9999999,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 84.53578,
+      "y": 269.87323,
+      "z": 179.88475
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandMiddle2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandMiddle2"
+  },
+  "60": {
+    "Transform_initialpos": {
+      "x": 3.43525624,
+      "y": 1.78860521,
+      "z": 1.534161
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 85.51018,
+      "y": 108.819862,
+      "z": 20.3248119
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandMiddle1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandMiddle1"
+  },
+  "61": {
+    "Transform_initialpos": {
+      "x": 3.7411983,
+      "y": 1.7926718,
+      "z": 1.40950263
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 84.90042,
+      "y": 270.0001,
+      "z": 180.000092
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandIndex4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandIndex4"
+  },
+  "62": {
+    "Transform_initialpos": {
+      "x": 3.69092035,
+      "y": 1.79267228,
+      "z": 1.40950263
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 89.99994,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandIndex3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandIndex3"
+  },
+  "63": {
+    "Transform_initialpos": {
+      "x": 3.57100058,
+      "y": 1.79267228,
+      "z": 1.40950263
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 90.0,
+      "y": 89.9999847,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandIndex2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandIndex2"
+  },
+  "64": {
+    "Transform_initialpos": {
+      "x": 3.42419052,
+      "y": 1.79325366,
+      "z": 1.40797091
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.99999994,
+      "y": 0.9999999,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 89.3605042,
+      "y": 200.173691,
+      "z": 110.772614
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHandIndex1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHandIndex1"
+  },
+  "65": {
+    "Transform_initialpos": {
+      "x": 3.15119743,
+      "y": 1.772695,
+      "z": 1.52904928
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 86.67133,
+      "y": 51.74128,
+      "z": 326.350555
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftHand",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftHand"
+  },
+  "66": {
+    "Transform_initialpos": {
+      "x": 2.75078249,
+      "y": 1.77199423,
+      "z": 1.53754854
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 84.71977,
+      "y": 180.13179,
+      "z": 88.91119
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftForeArm",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftForeArm"
+  },
+  "67": {
+    "Transform_initialpos": {
+      "x": 2.37710023,
+      "y": 1.79074216,
+      "z": 1.52374315
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.9999999,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 85.13998,
+      "y": 214.016129,
+      "z": 126.230247
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftArm",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftArm"
+  },
+  "68": {
+    "Transform_initialpos": {
+      "x": 2.2885983,
+      "y": 1.7798388,
+      "z": 1.52124739
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 1.00000012
+    },
+    "Transform_initialrotation": {
+      "x": 81.577034,
+      "y": 122.115738,
+      "z": 33.4446335
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftShoulder",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftShoulder"
+  },
+  "69": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 1.43447018,
+      "z": 1.45887172
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 358.562347,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:Spine2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:Spine2"
+  },
+  "70": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 1.32548821,
+      "z": 1.45887172
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 9.334668E-06,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:Spine1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:Spine1"
+  },
+  "71": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 1.24081659,
+      "z": 1.45887172
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 9.334668E-06,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:Spine",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:Spine"
+  },
+  "72": {
+    "Transform_initialpos": {
+      "x": 1.69895828,
+      "y": 0.0040826383,
+      "z": 0.970629752
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 271.245056,
+      "y": 277.544861,
+      "z": 89.41141
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightToe_End",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightToe_End"
+  },
+  "73": {
+    "Transform_initialpos": {
+      "x": 1.73399913,
+      "y": 0.0157675687,
+      "z": 1.0976845
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.9999999,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 276.25058,
+      "y": 159.4604,
+      "z": 215.7954
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightToeBase",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightToeBase"
+  },
+  "74": {
+    "Transform_initialpos": {
+      "x": 1.74542022,
+      "y": 0.160067961,
+      "z": 1.39873755
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.00000012,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 295.8137,
+      "y": 174.1459,
+      "z": 187.2346
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightFoot",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightFoot"
+  },
+  "75": {
+    "Transform_initialpos": {
+      "x": 1.7597152,
+      "y": 0.549795866,
+      "z": 1.45335615
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 0.9999999
+    },
+    "Transform_initialrotation": {
+      "x": 352.0325,
+      "y": 179.717392,
+      "z": 182.119354
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightLeg",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightLeg"
+  },
+  "76": {
+    "Transform_initialpos": {
+      "x": 1.73700011,
+      "y": 0.9946459,
+      "z": 1.44614708
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0000329,
+      "y": 1.0,
+      "z": 1.00000322
+    },
+    "Transform_initialrotation": {
+      "x": 0.925847,
+      "y": 179.949539,
+      "z": 177.076447
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:RightUpLeg",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:RightUpLeg"
+  },
+  "77": {
+    "Transform_initialpos": {
+      "x": 2.3010416,
+      "y": 0.0040826383,
+      "z": 0.970629752
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 271.245056,
+      "y": 82.45513,
+      "z": 270.5886
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftToe_End",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftToe_End"
+  },
+  "78": {
+    "Transform_initialpos": {
+      "x": 2.26600075,
+      "y": 0.0157675687,
+      "z": 1.09768438
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 0.9999999,
+      "y": 1.0,
+      "z": 0.99999994
+    },
+    "Transform_initialrotation": {
+      "x": 276.25058,
+      "y": 200.539612,
+      "z": 144.2046
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftToeBase",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftToeBase"
+  },
+  "79": {
+    "Transform_initialpos": {
+      "x": 2.25457978,
+      "y": 0.160067961,
+      "z": 1.39873743
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.00000012,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 295.8137,
+      "y": 185.854111,
+      "z": 172.7654
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftFoot",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftFoot"
+  },
+  "80": {
+    "Transform_initialpos": {
+      "x": 2.240285,
+      "y": 0.549795866,
+      "z": 1.453356
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 0.99999994,
+      "z": 0.9999999
+    },
+    "Transform_initialrotation": {
+      "x": 352.0325,
+      "y": 180.282623,
+      "z": 177.880646
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftLeg",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftLeg"
+  },
+  "81": {
+    "Transform_initialpos": {
+      "x": 2.263,
+      "y": 0.9946459,
+      "z": 1.44614708
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0000329,
+      "y": 1.0,
+      "z": 1.00000322
+    },
+    "Transform_initialrotation": {
+      "x": 0.925847,
+      "y": 180.050461,
+      "z": 182.923553
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:LeftUpLeg",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:LeftUpLeg"
+  },
+  "82": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 1.00012326,
+      "z": 1.44965637
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 9.334668E-06,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "mixamorig:Hips",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "mixamorig:Hips"
+  },
+  "83": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0,
+      "y": 28.0,
+      "z": 28.0
+    },
+    "Transform_initialrotation": {
+      "x": 9.334668E-06,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Armature.001",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "Armature.001"
+  },
+  "84": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 4.172387E-11,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 28.0000038,
+      "y": 28.0,
+      "z": 27.9999924
+    },
+    "Transform_initialrotation": {
+      "x": 270.019775,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "ankle_low",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "ankle_low"
+  },
+  "85": {
+    "Transform_initialpos": {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 1.5
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 3.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 2.0
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Robot",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "_objectname": "Robot"
+  },
+  "86": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Ball",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Sphere",
+    "_objectname": "Ball"
+  },
+  "87": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 20.0,
+      "y": 0.1,
+      "z": 5.0
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Plane",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cube",
+    "_objectname": "Plane"
+  },
+  "88": {
+    "Transform_initialpos": {
+      "x": 5.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_1"
+  },
+  "89": {
+    "Transform_initialpos": {
+      "x": 5.5,
+      "y": 0.5,
+      "z": 0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_2"
+  },
+  "90": {
+    "Transform_initialpos": {
+      "x": 5.5,
+      "y": 0.5,
+      "z": -0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_3"
+  },
+  "91": {
+    "Transform_initialpos": {
+      "x": 6.0,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_4"
+  },
+  "92": {
+    "Transform_initialpos": {
+      "x": 6.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_5",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_5"
+  },
+  "93": {
+    "Transform_initialpos": {
+      "x": 6.0,
+      "y": 0.5,
+      "z": -0.5
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_6",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_6"
+  },
+  "94": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": 0.75
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_7",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_7"
+  },
+  "95": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": 0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_8",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_8"
+  },
+  "96": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": -0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_9",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_9"
+  },
+  "97": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": -0.75
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 0.5,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_10",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_10"
+  }
+}

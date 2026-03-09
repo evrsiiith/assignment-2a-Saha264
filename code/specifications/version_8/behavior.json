@@ -1,0 +1,99 @@
+{
+  "behaviors": [
+    {
+      "id": "SnapVinyl",
+      "event": "OnCondition",
+      "actors": ["Vinyl_Record_A"],
+      "precondition": {
+        "all": [
+          { "equals": ["Self.state", "idle"] },
+          { "equals": ["Turntable_Platter.state", "empty"] },
+          { "runAlgorithm": "IsCollidingWithPlatter", "params": { "obj": "Self" } }
+        ]
+      },
+      "action": {
+        "runAlgorithm": "SnapToPlatter",
+        "params": { "obj": "Self" }
+      },
+      "postcondition": {
+        "all": [
+          { "equals": ["Self.state", "on_platter"] },
+          { "equals": ["Turntable_Platter.state", "loaded"] }
+        ]
+      }
+    },
+    {
+      "id": "TogglePlay",
+      "event": "OnCondition",
+      "actors": ["Master_Button"],
+      "precondition": {
+        "all": [
+          { "runAlgorithm": "IsButtonClicked", "params": { "obj": "Self" } },
+          { "any": [
+              { "equals": ["Turntable_Platter.state", "loaded"] },
+              { "equals": ["Turntable_Platter.state", "playing"] }
+          ]}
+        ]
+      },
+      "action": {
+        "runAlgorithm": "TogglePlayback",
+        "params": { "obj": "Self" }
+      }
+    },
+    {
+      "id": "SpinPlatter",
+      "event": "OnCondition",
+      "actors": ["Turntable_Platter"],
+      "precondition": {
+        "equals": ["Self.state", "playing"]
+      },
+      "action": {
+        "runAlgorithm": "RotatePlatter",
+        "params": { "obj": "Self" }
+      }
+    },
+    {
+      "id": "RemoveVinyl",
+      "event": "OnCondition",
+      "actors": ["Turntable_Platter"],
+      "precondition": {
+        "all": [
+          { "any": [
+              { "equals": ["Self.state", "loaded"] },
+              { "equals": ["Self.state", "playing"] }
+          ]},
+          { "runAlgorithm": "IsVinylRemoved", "params": { "obj": "Self" } }
+        ]
+      },
+      "action": {
+        "runAlgorithm": "HandleVinylRemoval",
+        "params": { "obj": "Self" }
+      },
+      "postcondition": {
+        "equals": ["Self.state", "empty"]
+      }
+    },
+    {
+      "id": "RejectSecondVinyl",
+      "event": "OnCondition",
+      "actors": ["Vinyl_Record_A"],
+      "precondition": {
+        "all": [
+          { "equals": ["Self.state", "idle"] },
+          { "any": [
+              { "equals": ["Turntable_Platter.state", "loaded"] },
+              { "equals": ["Turntable_Platter.state", "playing"] }
+          ]},
+          { "runAlgorithm": "IsCollidingWithPlatter", "params": { "obj": "Self" } }
+        ]
+      },
+      "action": {
+        "runAlgorithm": "RejectVinyl",
+        "params": { "obj": "Self" }
+      },
+      "postcondition": {
+        "equals": ["Self.state", "idle"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "ObjAction": [
+    {
+      "actresid": "pin_fall_disappear3",
+      "trigger_event": {
+        "sourceObj": "Pin_3",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_3",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear2",
+      "trigger_event": {
+        "sourceObj": "Pin_2",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_2",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "pin_fall_disappear",
+      "trigger_event": {
+        "sourceObj": "Pin_1",
+        "action": "change",
+        "inputType": "none",
+        "change_property_by": {
+          "Transform_initialrotation": {
+            "x": "10",
+            "y": "10",
+            "z": "10"
+          }
+        }
+      },
+      "response_event": {
+        "targetObj": "Pin_1",
+        "response": "disappear",
+        "force": "none"
+      }
+    },
+    {
+      "actresid": "ball_roll_on_click",
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "action": "input",
+        "inputType": "click",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Ball",
+        "response": "force",
+        "force": {
+          "force_x": "10",
+          "force_y": "0",
+          "force_z": "0",
+          "type": "impulse"
+        }
+      }
+    },
+    {
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_1",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_2",
+        "response": "none",
+        "force": "none"
+      }
+    },
+    {
+      "trigger_event": {
+        "sourceObj": "Ball",
+        "action": "none",
+        "inputType": "none",
+        "change_property_by": "none"
+      },
+      "response_event": {
+        "targetObj": "Pin_3",
+        "response": "none",
+        "force": "none"
+      }
+    }
+  ]
+}

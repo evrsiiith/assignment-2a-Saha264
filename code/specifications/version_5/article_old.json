@@ -1,0 +1,398 @@
+{
+  "0": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Ball",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Sphere",
+    "_objectname": "Ball"
+  },
+  "1": {
+    "Transform_initialpos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 0,
+      "mass": 0,
+      "dragfriction": 0,
+      "angulardrag": 0,
+      "Isgravityenable": false,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "none"
+    },
+    "Transform_objectscale": {
+      "x": 20.0,
+      "y": 0.1,
+      "z": 5.0
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Plane",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Cube",
+    "_objectname": "Plane"
+  },
+  "2": {
+    "Transform_initialpos": {
+      "x": 5.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_1",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_1"
+  },
+  "3": {
+    "Transform_initialpos": {
+      "x": 5.5,
+      "y": 0.5,
+      "z": 0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_2",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_2"
+  },
+  "4": {
+    "Transform_initialpos": {
+      "x": 5.5,
+      "y": 0.5,
+      "z": -0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_3",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_3"
+  },
+  "5": {
+    "Transform_initialpos": {
+      "x": 6.0,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_4",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_4"
+  },
+  "6": {
+    "Transform_initialpos": {
+      "x": 6.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_5",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_5"
+  },
+  "7": {
+    "Transform_initialpos": {
+      "x": 6.0,
+      "y": 0.5,
+      "z": -0.5
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_6",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_6"
+  },
+  "8": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": 0.75
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_7",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_7"
+  },
+  "9": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": 0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_8",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_8"
+  },
+  "10": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": -0.25
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_9",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_9"
+  },
+  "11": {
+    "Transform_initialpos": {
+      "x": 6.5,
+      "y": 0.5,
+      "z": -0.75
+    },
+    "XRRigidObject": {
+      "value": 1,
+      "mass": 1.0,
+      "dragfriction": 0.0,
+      "angulardrag": 0.0,
+      "Isgravityenable": true,
+      "IsKinematic": false,
+      "CanInterpolate": 0,
+      "CollisionPolling": "discrete"
+    },
+    "Transform_objectscale": {
+      "x": 0.2,
+      "y": 0.5,
+      "z": 0.2
+    },
+    "Transform_initialrotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_Layer": 0,
+    "m_Name": "Pin_10",
+    "m_TagString": "Untagged",
+    "m_StaticEditorFlags": 0,
+    "shape": "Capsule",
+    "_objectname": "Pin_10"
+  }
+}

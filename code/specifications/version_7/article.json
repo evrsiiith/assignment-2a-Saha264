@@ -1,0 +1,125 @@
+{
+  "articles": [
+    {
+      "_objectname": "Vinyl_Record_A",
+      "shape": "Cylinder",
+      "Transform_initialpos": {
+        "x": "1.0",
+        "y": "0.5",
+        "z": "0.0"
+      },
+      "Transform_initialrotation": {
+        "x": "0.0",
+        "y": "0.0",
+        "z": "0.0"
+      },
+      "Transform_objectscale": {
+        "x": "0.5",
+        "y": "0.01",
+        "z": "0.5"
+      },
+      "XRRigidObject": {
+        "value": "1",
+        "mass": "1.0",
+        "dragfriction": "0.0",
+        "angulardrag": "0.0",
+        "Isgravityenable": "true",
+        "IsKinematic": "false",
+        "CanInterpolate": "0",
+        "CollisionPolling": "discrete"
+      }
+    },
+    {
+      "_objectname": "Vinyl_Record_B",
+      "shape": "Cylinder",
+      "Transform_initialpos": {
+        "x": "-1.0",
+        "y": "0.5",
+        "z": "0.0"
+      },
+      "Transform_initialrotation": {
+        "x": "0.0",
+        "y": "0.0",
+        "z": "0.0"
+      },
+      "Transform_objectscale": {
+        "x": "0.5",
+        "y": "0.01",
+        "z": "0.5"
+      },
+      "XRRigidObject": {
+        "value": "1",
+        "mass": "1.0",
+        "dragfriction": "0.0",
+        "angulardrag": "0.0",
+        "Isgravityenable": "true",
+        "IsKinematic": "false",
+        "CanInterpolate": "0",
+        "CollisionPolling": "discrete"
+      }
+    },
+    {
+      "_objectname": "Turntable_Platter",
+      "shape": "Cylinder",
+      "Transform_initialpos": {
+        "x": "0.0",
+        "y": "0.5",
+        "z": "0.0"
+      },
+      "Transform_initialrotation": {
+        "x": "0.0",
+        "y": "0.0",
+        "z": "0.0"
+      },
+      "Transform_objectscale": {
+        "x": "0.55",
+        "y": "0.05",
+        "z": "0.55"
+      },
+      "XRRigidObject": {
+        "value": "1",
+        "mass": "1.0",
+        "dragfriction": "0.0",
+        "angulardrag": "0.0",
+        "Isgravityenable": "false",
+        "IsKinematic": "true",
+        "CanInterpolate": "0",
+        "CollisionPolling": "discrete"
+      }
+    },
+    {
+      "_objectname": "Master_Button",
+      "shape": "Cube",
+      "Transform_initialpos": {
+        "x": "0.0",
+        "y": "0.5",
+        "z": "0.7"
+      },
+      "Transform_initialrotation": {
+        "x": "0.0",
+        "y": "0.0",
+        "z": "0.0"
+      },
+      "Transform_objectscale": {
+        "x": "0.2",
+        "y": "0.1",
+        "z": "0.2"
+      },
+      "XRRigidObject": {
+        "value": "1",
+        "mass": "1.0",
+        "dragfriction": "0.0",
+        "angulardrag": "0.0",
+        "Isgravityenable": "false",
+        "IsKinematic": "true",
+        "CanInterpolate": "0",
+        "CollisionPolling": "discrete"
+      },
+      "lighting": {
+        "CastShadow": "true",
+        "ReceiveShadow": "true",
+        "ContributeGlobalIlumination": "true"
+      }
+    }
+  ]
+}

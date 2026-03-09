@@ -1,0 +1,69 @@
+{
+  "ObjAction": [
+    {
+      "actresid": "snap_record_a",
+      "trigger_event": {
+        "sourceObj": "Vinyl_Record_A",
+        "IsCollision": "true",
+        "action": "none",
+        "inputType": "none"
+      },
+      "response_event": {
+        "targetObj": "Vinyl_Record_A",
+        "IsCollision": "false",
+        "response": "change",
+        "change_property_by": {
+            "Transform_initialpos": {
+                "x": 0.0,
+                "y": 0.55,
+                "z": 0.0
+            }
+        },
+        "disappear": "none"
+      },
+      "comment": "Snap Record A to Platter",
+      "Syncronous": "true"
+    },
+    {
+      "actresid": "snap_record_b",
+      "trigger_event": {
+        "sourceObj": "Vinyl_Record_B",
+        "IsCollision": "true",
+        "action": "none",
+        "inputType": "none"
+      },
+      "response_event": {
+        "targetObj": "Vinyl_Record_B",
+        "IsCollision": "false",
+        "response": "change",
+        "change_property_by": {
+            "Transform_initialpos": {
+                "x": 0.0,
+                "y": 0.55,
+                "z": 0.0
+            }
+        },
+        "disappear": "none"
+      },
+      "comment": "Snap Record B to Platter",
+      "Syncronous": "true"
+    },
+    {
+      "actresid": "play_music",
+      "trigger_event": {
+        "sourceObj": "Master_Button",
+        "IsCollision": "false",
+        "action": "input",
+        "inputType": "click"
+      },
+      "response_event": {
+        "targetObj": "Turntable_Platter",
+        "IsCollision": "false",
+        "response": "dj_play",
+        "disappear": "none"
+      },
+      "comment": "Start music if record is present",
+      "Syncronous": "true"
+    }
+  ]
+}
